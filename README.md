@@ -1,6 +1,8 @@
 # kenken-solver
 A fast KenKen solver, written in Python.
 
+![kenkenlogo1](https://user-images.githubusercontent.com/61100393/186904985-11df6cc6-0800-472b-bc64-d4418ce70246.jpeg)
+
 ## KenKen game
 The KenKen game is a variation of Sudoku. It has a square grid which can have any number of rows/columns. 
 One example of a KenKen grid is this:
