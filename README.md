@@ -57,7 +57,7 @@ As shown, the region that contains the squares `(1,1), (1,2), (2,2)` has the con
 
 You will keep being prompted to enter instructions until all the squares have been given a corresponding instruction. The program will then attempt to solve for a solution that meets all of the inputted instructions. If a solution is found, it will be outputted; if not, you will see message stating `No possible answers found.` 
 
-## Running on [repl.it](repl.it)
+## Running on [https://replit.com/](repl.it)
 There is an existing repl.it project created by me: https://replit.com/@JMuzhen/kenken-solver?v=1
 
 To run it, click on the link and click on the `▶️ Run` button.
